@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    color: rgb(4, 4, 4);
+    font-size: 50px;
+  
+    
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.relogio {
+    border: 1px solid rgb(95, 95, 95);
+    border-radius: 3%;
+    box-shadow: 0 0 15px 5px rgb(255, 254, 252);
+    color: white;
+    font-size: 100px;
+}
+h1 {
+    font-size: 65px;
+    margin: 4rem;
+    color: rgba(255, 255, 255, 0.995);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.frase{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    margin: 4rem;
+    color: rgba(255, 255, 255, 0.858);
+}
